@@ -1,0 +1,22 @@
+{
+  "name": "pollen-scan",
+  "version": "1.0.0",
+  "description": "This script extracts information of pollen concentration by date from images for the datalergy project.",
+  "main": "ScanScript",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/equiroga8/pollen-scan.git"
+  },
+  "author": "equiroga8",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/equiroga8/pollen-scan/issues"
+  },
+  "homepage": "https://github.com/equiroga8/pollen-scan#readme",
+  "dependencies": {
+    "jimp": "^0.10.0"
+  }
+}
