@@ -1,6 +1,7 @@
 {
   "name": "pollen-scan",
   "version": "1.0.0",
+  "type": "module",
   "description": "This script extracts information of pollen concentration by date from images for the datalergy project.",
   "main": "ScanScript",
   "scripts": {
