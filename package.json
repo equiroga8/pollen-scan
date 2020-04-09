@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/equiroga8/pollen-scan#readme",
   "dependencies": {
-    "jimp": "^0.10.0"
+    "jimp": "^0.10.0",
+    "simple-datejs": "^1.0.0"
   }
 }
